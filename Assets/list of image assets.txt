@@ -1,0 +1,15 @@
+hockey puck/hockey stick
+football
+tricycle
+softball/glove
+dog
+cat
+monkey
+turtle
+dinosaur
+phone
+seagull/bird
+basketball/net
+elephant
+car
+truck

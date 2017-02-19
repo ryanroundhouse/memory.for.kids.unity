@@ -1,0 +1,11 @@
+D:\workspace\CodeStomp\Root\Source\MemoryForKids\obj\Debug\Assembly-CSharp-vs.csprojResolveAssemblyReference.cache
+D:\workspace\CodeStomp\Root\Source\MemoryForKids\Temp\bin\Debug\Assembly-CSharp.dll
+D:\workspace\CodeStomp\Root\Source\MemoryForKids\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\workspace\CodeStomp\Root\Source\MemoryForKids\Temp\bin\Debug\UnityEditor.dll
+D:\workspace\CodeStomp\Root\Source\MemoryForKids\Temp\bin\Debug\UnityEngine.dll
+D:\workspace\CodeStomp\Root\Source\MemoryForKids\Temp\bin\Debug\Mono.Cecil.dll
+D:\workspace\CodeStomp\Root\Source\MemoryForKids\Temp\bin\Debug\nunit.framework.dll
+D:\workspace\CodeStomp\Root\Source\MemoryForKids\Temp\bin\Debug\Unity.DataContract.dll
+D:\workspace\CodeStomp\Root\Source\MemoryForKids\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+D:\workspace\CodeStomp\Root\Source\MemoryForKids\obj\Debug\Assembly-CSharp.dll
+D:\workspace\CodeStomp\Root\Source\MemoryForKids\obj\Debug\Assembly-CSharp.pdb
